@@ -1,7 +1,7 @@
 {
-  "name": "rocket-swagger",
+  "name": "swagger-web",
   "private": false,
-  "version": "v1.0.0",
+  "version": "v1.5.0",
   "type": "module",
   "author": "Abhishek Chatterjee",
   "scripts": {
