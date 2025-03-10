@@ -1,1 +1,1 @@
-npm run eslint:check
+npm run lint:check
