@@ -5,10 +5,7 @@ import 'swagger-ui-react/swagger-ui.css'
 
 // SVG Rocket logo (inline to avoid external dependencies)
 const RocketLogo = (): JSX.Element => (
-  <svg width="80" height="80" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-    <path d="M12.5 2C9 2 4 6.5 4 11.5V20L6.5 17.5V14L9.5 17V20L12 17.5L14.5 20V17L17.5 14V17.5L20 20V11.5C20 6.5 16 2 12.5 2Z" fill="#fb2645"/>
-    <path d="M12.5 7C13.3284 7 14 6.32843 14 5.5C14 4.67157 13.3284 4 12.5 4C11.6716 4 11 4.67157 11 5.5C11 6.32843 11.6716 7 12.5 7Z" fill="white"/>
-  </svg>
+  <img src='/public/logo.png' width={80} />
 )
 
 const styles = {
@@ -40,7 +37,7 @@ const styles = {
     textAlign: 'center' as const
   },
   card: {
-    backgroundColor: 'white',
+    backgroundColor: '#f8f9fa',
     borderRadius: '8px',
     boxShadow: '0 2px 10px rgba(0,0,0,0.08)',
     padding: '40px',
@@ -164,7 +161,7 @@ const App = (): JSX.Element => {
   // If no URL parameter is provided, show the landing page
   if (url.length === 0) {
     return (
-      <div style={{ backgroundColor: '#f8f9fa', minHeight: '100vh' }}>
+      <div style={{ minHeight: '100vh' }}>
         <div style={styles.container}>
           <header style={styles.header}>
             <div style={styles.branding}>
