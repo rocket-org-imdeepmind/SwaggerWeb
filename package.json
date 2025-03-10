@@ -8,8 +8,8 @@
     "dev": "vite",
     "build": "tsc && vite build",
     "preview": "vite preview",
-    "eslint:check": "eslint --ext tsx,ts ./src",
-    "eslint:write": "eslint --ext tsx,ts --fix ./src",
+    "lint:check": "eslint --ext tsx,ts ./src",
+    "lint:write": "eslint --ext tsx,ts --fix ./src",
     "prepare": "husky"
   },
   "dependencies": {
