@@ -1,12 +1,12 @@
 ## Contributing Guidelines
 
-Thank you for considering contributing to RocketSwagger! By participating in this project, you contribute to making API documentation exploration easier for everyone.
+Thank you for considering contributing to SwaggerWeb! By participating in this project, you contribute to making API documentation exploration easier for everyone.
 
 ### How Can I Contribute?
 
 #### Reporting Bugs
 
-- Before reporting a bug, ensure that it hasn't already been reported by checking the [existing issues](https://github.com/rocket-org-imdeepmind/RocketSwagger/issues).
+- Before reporting a bug, ensure that it hasn't already been reported by checking the [existing issues](https://github.com/rocket-org-imdeepmind/SwaggerWeb/issues).
 - If you find a bug that hasn't been reported, open a new issue. Provide a clear and descriptive title along with detailed steps to reproduce the bug.
 
 #### Suggesting Enhancements
@@ -29,10 +29,10 @@ Thank you for considering contributing to RocketSwagger! By participating in thi
 
 ### License
 
-- By contributing to RocketSwagger, you agree that your contributions will be licensed under the project's [MIT License](LICENSE).
+- By contributing to SwaggerWeb, you agree that your contributions will be licensed under the project's [MIT License](LICENSE).
 
 ### Need Help?
 
 - If you need assistance or have any questions, feel free to reach out by opening an issue or contacting us via email at [hello@rocketapi.com](mailto:hello@rocketapi.com).
 
-Thank you for your interest in contributing to RocketSwagger! Your contributions are highly valued and appreciated.
+Thank you for your interest in contributing to SwaggerWeb! Your contributions are highly valued and appreciated.
