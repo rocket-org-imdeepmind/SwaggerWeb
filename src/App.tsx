@@ -5,7 +5,7 @@ import 'swagger-ui-react/swagger-ui.css'
 
 // SVG Rocket logo (inline to avoid external dependencies)
 const RocketLogo = (): JSX.Element => (
-  <img src='/public/logo.png' width={80} />
+  <img src='/logo.png' width={80} />
 )
 
 const styles = {
